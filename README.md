@@ -7,5 +7,5 @@
 ### [EX01-03](https://github.com/aobd1356/Homework/blob/main/EX01_03_Rock_Paper_Scissors.ipynb)
 ### [EX01-04](https://github.com/aobd1356/Homework/blob/main/EX01_04_%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC.ipynb)
 ### [EX01-05](https://github.com/aobd1356/Homework/blob/main/EX01_04_%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC.ipynb)
-### [EX01-06]
+### [EX01-06](https://github.com/aobd1356/Homework/blob/main/EX01_06_%E7%B0%A1%E6%98%93%E8%B3%BC%E7%89%A9%E8%BB%8A.ipynb)
 ### [EX01-07]
