@@ -27,5 +27,5 @@
 ### [EX03_03_空氣品質指標(AQI)](https://github.com/aobd1356/Homework/blob/main/EX03_03_%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA%E6%8C%87%E6%A8%99(AQI).ipynb)
 ### [EX03_04_薪情平台](https://github.com/aobd1356/Homework/blob/main/EX03_04_%E8%96%AA%E6%83%85%E5%B9%B3%E5%8F%B0.ipynb)
 ### [EX03_05_台灣股票市場個股每日成交資訊](https://github.com/aobd1356/Homework/blob/main/EX03_05_%E5%8F%B0%E7%81%A3%E8%82%A1%E7%A5%A8%E5%B8%82%E5%A0%B4%E5%80%8B%E8%82%A1%E6%AF%8F%E6%97%A5%E6%88%90%E4%BA%A4%E8%B3%87%E8%A8%8A.ipynb)
-### []()
+### [EX03-05 台灣股票市場個股每日成交資訊](https://github.com/aobd1356/Homework/blob/main/EX03_05_%E5%8F%B0%E7%81%A3%E8%82%A1%E7%A5%A8%E5%B8%82%E5%A0%B4%E5%80%8B%E8%82%A1%E6%AF%8F%E6%97%A5%E6%88%90%E4%BA%A4%E8%B3%87%E8%A8%8A.ipynb)
 ### []()
