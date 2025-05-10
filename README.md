@@ -37,3 +37,5 @@
 
 ## HW
 ### [HW2](https://github.com/aobd1356/Homework/commit/ab9104fa158fa0b0d842b061a6a79ce8e1ad859f)
+### [HW3](https://github.com/aobd1356/Homework/blob/main/HW3.ipynb)
+
