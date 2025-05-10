@@ -30,3 +30,10 @@
 ### [EX03-05 台灣股票市場個股每日成交資訊](https://github.com/aobd1356/Homework/blob/main/EX03_05_%E5%8F%B0%E7%81%A3%E8%82%A1%E7%A5%A8%E5%B8%82%E5%A0%B4%E5%80%8B%E8%82%A1%E6%AF%8F%E6%97%A5%E6%88%90%E4%BA%A4%E8%B3%87%E8%A8%8A.ipynb)
 ### [EX03-06 出生人口數](https://github.com/aobd1356/Homework/blob/main/EX03_06_%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%95%B8.ipynb)
 ### [EX03-07 Tips](https://github.com/aobd1356/Homework/blob/main/EX03_07_Tips.ipynb)
+
+## W5
+### [EX05_01_Echo_Bot](https://github.com/aobd1356/Homework/blob/main/EX05_01_Echo_Bot.ipynb)
+### [EX05_02_Ask_Gemini](https://github.com/aobd1356/Homework/blob/main/EX05_02_Ask_Gemini.ipynb)
+
+## HW
+### [HW2](https://github.com/aobd1356/Homework/commit/ab9104fa158fa0b0d842b061a6a79ce8e1ad859f)
