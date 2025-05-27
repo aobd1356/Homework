@@ -33,6 +33,8 @@
 
 ## W4
 ### [EX04_01_汽車車型數值資料轉換](https://github.com/aobd1356/Homework/blob/main/EX04_01_%E6%B1%BD%E8%BB%8A%E8%BB%8A%E5%9E%8B%E6%95%B8%E5%80%BC%E8%B3%87%E6%96%99%E8%BD%89%E6%8F%9B.ipynb)
+### [EX04_02_客戶基本資料編碼](https://github.com/aobd1356/Homework/blob/main/EX04_02_%E5%AE%A2%E6%88%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E7%B7%A8%E7%A2%BC.ipynb)
+### [EX04_03_客戶分群](https://github.com/aobd1356/Homework/blob/main/EX04_03_%E5%AE%A2%E6%88%B6%E5%88%86%E7%BE%A4.ipynb)
 
 ## W5
 ### [EX05_01_Echo_Bot](https://github.com/aobd1356/Homework/blob/main/EX05_01_Echo_Bot.ipynb)
@@ -43,4 +45,9 @@
 ## HW
 ### [HW2](https://github.com/aobd1356/Homework/commit/ab9104fa158fa0b0d842b061a6a79ce8e1ad859f)
 ### [HW3](https://github.com/aobd1356/Homework/blob/main/HW3.ipynb)
+
+## Report
+### [Report05](https://github.com/aobd1356/Homework/blob/main/Report05.ipynb)
+
+
 
